@@ -1,0 +1,15 @@
+C:\Users\lukal\source\repos\Galerija\Galerija\bin\Release\Galerija.exe.config
+C:\Users\lukal\source\repos\Galerija\Galerija\bin\Release\Galerija.exe
+C:\Users\lukal\source\repos\Galerija\Galerija\bin\Release\Galerija.pdb
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.csproj.AssemblyReference.cache
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.MainPage.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.CreatePost.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.LoginForm.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.LoginRegister.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.PostListing.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.Properties.Resources.resources
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.csproj.GenerateResource.cache
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.csproj.CoreCompileInputs.cache
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.exe
+C:\Users\lukal\source\repos\Galerija\Galerija\obj\Release\Galerija.pdb
